@@ -1,5 +1,5 @@
 ---
-title: Understanding Arrangements (All Musicians)
+title: (All Musicians) Understanding Arrangements
 ---
 
 ## Understanding Arrangements

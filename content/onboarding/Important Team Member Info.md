@@ -11,7 +11,7 @@ We are so excited that you've chosen to be a part of the Worship Ministry here a
 This handbook is intended to give you the information you need to have a good understanding of what it means to be involved in this ministry.
 
 ### VISION/MISSION
-We are a team that diligently seeks to 
+We are a team that diligently seeks to
 - CONNECT ourselves and our church family to God through worship, by cultivating a heavenly atmosphere on earth
 - DEVELOP our God-given talents and abilities as we pursue excellence in our personal craft and artistry
 - EMPOWER people to step into the fullness of their creative calling through music production, songwriting and leadership.
@@ -68,7 +68,7 @@ Please arrive 10-15 minutes before rehearsal begins to get set up and prepared. 
 
 Planning Center is the internet based planning program we use at Calvary. Here's what you'll need to know and some tips for getting the most out of Planning Center.
 
-The worship leader will set up your account. 
+The worship leader will set up your account.
 
 Each week you are scheduled you will receive an invitation for the service. Please click "confirm". This will take you to the service plan and also notify the worship leader you're good to go.
 
@@ -126,7 +126,7 @@ Electric Bass Guitar: The church does provide an electric bass and the sounds ar
 **Other:** Please inquire about other instruments and gear.
 
 ### SOFTWARE
-#### Band (App): 
+#### Band (App):
 We use a free app "[Band](https://band.us/en)" to communicate with our teams. Please go to the link above and make an account. Make sure to enable notifications so you can stay up on communication from us. This is our primary communication tool, even over email or text.
 
 #### Planning Center:
@@ -148,6 +148,8 @@ There are a few larger events throughout the year such as Christmas Program, Eas
 ### DISMISSAL
 
 Rarely is a volunteer asked to step down from serving in the Worship Ministry however there are some reason why this my happen:
+<details>
+<summary>Click to view dismissal reasons</summary>
 
 #### Moral Failing
 A volunteer is in continued unrepentant sin or if they've had a moral failing that requires them to be removed from leadership for the process of restoration.
@@ -166,8 +168,12 @@ A volunteer is unable to genuinely and visibly engage with God as they lead othe
 
 #### Personal Chemistry
 Sometimes certain personalities just don't mesh with others. No one is at fault but it may be a better fit to find another area of ministry.
+</details>
 
 # FAQ
+
+<details>
+<summary>Click to expand Frequently Asked Questions</summary>
 
 ### Where do I park?
 Park in the parking lot of the church. Please be mindful of the prime parking spots for the congregation that need it.
@@ -191,7 +197,7 @@ Prepared enough to not hinder rehearsal. Rehearsal time should be time for the b
 Food is not provided, although we do have snacks on the side of the stage for worship members
 
 ### Where do I sit during service?
-We do not have a greenroom, although we do meet for a verbal run-through at 9:45am in the gym behind the stage with the rest of the church volunteers and staff. During service, feel free to sit wherever, as long as you're ready to head up to stage when needed. 
+We do not have a greenroom, although we do meet for a verbal run-through at 9:45am in the gym behind the stage with the rest of the church volunteers and staff. During service, feel free to sit wherever, as long as you're ready to head up to stage when needed.
 
 ### How do I contact you?
 **Kenei Menning**
@@ -202,11 +208,11 @@ Email: worship@minnesotafamilychurch.com
 We may not have some instruments, so if you have special instruments, please bring them (we'll talk about it). We will have iPads to access the musical resources on Planning Center. We also provide In-Ear Monitors (IEM) and will have a drawer specifically for you. If you have your own iPad/tablet and/or IEM, feel free to bring them.
 
 ### What software we'll be using?
-#### Services / Planning Center
+#### [[Planning Center]]
 **Planning and Scheduling**
-#### Music Stand
+#### [[Music Stand]]
 **Electronic songbook of Planning Center resources**
-#### Band APP
+#### [[Band App]]
 **Communication**
 
 ### OPTIONAL
@@ -219,3 +225,5 @@ I am willing to schedule in-person training and accommodate time for you to shad
 
 ### What else should I know?
 We are looking forward to serving the Lord and our church with you!
+
+</details>
