@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Ministry Docs
 ---
+# Sections:
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## [[Audition]]
+
+## [[Onboarding]]
+## [[General Training]]
+
+### [[Want To Do Lists]]
