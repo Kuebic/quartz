@@ -1,19 +1,20 @@
 ## Software Training
-### Planning Center
-### Music Stand
-### Band App
++ ### [[Planning Center]]
++ ### [[Music Stand]]
++ ### [[Band App]]
 
 ## Musician Training
-### [[Acoustic Guitar]]
++ ### [[00 Understanding Arrangements]]
++ ### [[Acoustic Guitar]]
 
-### [[Electric Guitar]]
++ ### [[Electric Guitar]]
 
-### [[Bass]]
++ ### [[Bass]]
 
-### [[Drums]]
++ ### [[Drums]]
 
-### [[Piano / Keys]]
++ ### [[Piano & Keys]]
 
-### [[Vocalists]]
++ ### [[Vocalists]]
 
-### [[Music Director]]
++ ### [[Music Director]]

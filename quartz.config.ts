@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🎵 4HSake Docs",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -20,14 +20,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#e5e5e5", // "#faf8f8", //background
+          lightgray: "#d9d9d9", // "#e5e5e5", //search-bar box and graph view outline
+          gray: "#758ca4", //"#b8b8b8", //date text
+          darkgray: "#1D2D3E", // "#4e4e4e", //search-bar text + light/darkmode icon color
+          dark: "#3F4E5F", // "#2b2b2b", //link color in explorer, title, headings, ToC, Backlinks, etc
+          secondary: "#284b63", // "#284b63", //4HSake Docs, breadcrumbs, Backlink links, graph view, explorer folders
+          tertiary: "#758ca4", //"#84a59d", //backlinked dot in graph and hover/cursor drag highlights
+          highlight: "#5B738B35", // "rgba(143, 159, 169, 0.15)", //headings highlighted
         },
         darkMode: {
           light: "#161618",
