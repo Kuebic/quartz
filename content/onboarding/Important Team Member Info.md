@@ -64,7 +64,7 @@ When arriving at rehearsal you will be expected to have your parts worked out. N
 
 Please arrive 10-15 minutes before rehearsal begins to get set up and prepared. We'll begin promptly at the rehearsal time. For example, please arrive 5:45pm for the 6:00pm rehearsal.
 
-### PLANNING CENTER
+### [[Planning Center]]
 
 Planning Center is the internet based planning program we use at Calvary. Here's what you'll need to know and some tips for getting the most out of Planning Center.
 
@@ -126,10 +126,10 @@ Electric Bass Guitar: The church does provide an electric bass and the sounds ar
 **Other:** Please inquire about other instruments and gear.
 
 ### SOFTWARE
-#### Band (App):
+#### [[Band App]]:
 We use a free app "[Band](https://band.us/en)" to communicate with our teams. Please go to the link above and make an account. Make sure to enable notifications so you can stay up on communication from us. This is our primary communication tool, even over email or text.
 
-#### Planning Center:
+#### [[Planning Center]]:
 We will be doing all our team and song scheduling through Planning Center "Services". When you join the team you will be added to Planning Center and receive a welcome email with an instructional video on how to use it. **Please install the Planning Center Services app on your smartphone.** You can find it in the App Store by searching. install it and log in.
 
 **Planning Center Etiquette:**
